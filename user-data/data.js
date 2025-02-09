@@ -1,21 +1,22 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
+  "Hello, I'm Jason Gianakopulos!",
   "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
   "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
   "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
-  "JavaScript, TypeScript, Angular, AngularJS, React, HTML5, CSS, Bootstrap",
-  "RxJS, NGXS, NGRX",
-  "Jenkins, JIRA, Webpack, Git",
+  "JavaScript, TypeScript, Python, GO, React, HTML5, CSS, Electron",
+  "NodeJS, MySQL, MongoDB",
+  "WordPress, Squarespace, Wix"
+  "JIRA, Git",
 ];
 
 export const experience = [
   {
-    title: "Shiprocket Private Limited",
-    duration: "September 2023 - Present",
-    subtitle: "Software Engineer",
+    title: "Mothers In Grief Support Group - Nonprofit Org",
+    duration: "February 2024 - Present",
+    subtitle: "IT Support Specialist",
     details: [
       "Developed a design system using Stencil and Storybook that provides consistent UI components across platforms, ensuring a cohesive design.",
       "Developed a dynamic support ticket panel that renders subcategories based on component IDs, handling up to 100 AWBs simultaneously.",
@@ -23,40 +24,40 @@ export const experience = [
       "Designed and implemented advanced features such as keyboard shortcuts, improving operational efficiency by 15 percent.",
       "Took ownership of OKRs, collaborated with the product team, and mentored two junior developers, cutting their code review iterations and ensuring on-time feature delivery.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "AngularJs"],
+    tags: ["JavaScript", "HTML", "CSS", "WordPress"],
     icon: "truck ",
   },
   {
-    title: "Biofourmis India Private Limited",
+    title: "Updating...",
     duration: "April 2022 - Jul 2023",
     subtitle: "Software Engineer",
     details: [
-      "Spearheaded the implementation of micro-frontends using Module Federation, enabling modular and scalable architecture.",
-      "Earned the Biofourmis Bravo Award for upgrading the application to support flexible operations across multiple geographies.",
-      "Enhanced performance and user experience by integrating Twilio-Video, Countly, and NGXS WebSocket for real-time data management.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     ],
     tags: [
       "JavaScript",
-      "Angular",
-      "RxJS",
-      "NGXS",
+      "HTML",
+      "CSS",
+      "Python",
       "TypeScript",
-      "RxState",
+      "React",
       "Webpack",
       "Optimization",
     ],
     icon: "heartbeat",
   },
   {
-    title: "Novopay Solutions Private Limited",
+    title: "Updating",
     duration: "June 2020 - April 2022",
     subtitle: "Software Engineer",
     details: [
-      "Built critical banking features including AePS services (eKYC, cash withdrawal, balance inquiry) used by over 1,00,000 retailers.",
-      "Developed QR code integration for wallet money loading, streamlining retailer workflows and reducing errors by 25 percent.",
-      "Integrated Clevertap analytics, Freshdesk ticketing, and chatbot services, enhancing user support and engagement.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["JavaScript", "HTML", "Python", "Nodejs", "MonogDB"],
     icon: "qrcode",
   },
   {
@@ -81,9 +82,9 @@ export const trekking = [
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "Self Directed Learning and Certifications in Computer Science, IT and Cybersecurity",
+    duration: "2012 - Present",
+    subtitle: "Cisco Networking Academy",
     details: [],
     tags: [
       "Data Structures & Algorithms",
@@ -96,11 +97,11 @@ export const education = [
     icon: "graduation-cap",
   },
   {
-    title: "Class 12th in Science and Mathematics",
+    title: "General Studies with a focus on Computer Basics and Fundamentals",
     duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    subtitle: "Savanna High School",
     details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
+    tags: ["Computers", "Fundamentals", "General Studies"],
     icon: "book",
   },
 ];
@@ -115,11 +116,11 @@ export const footer = [
   //       },
   //       {
   //         text: "GitHub",
-  //         link: "https://github.com/vinaysomawat",
+  //         link: "https://github.com/ScribeAegis",
   //       },
   //       {
   //         text: "LeetCode",
-  //         link: "https://leetcode.com/somawatvinay/",
+  //         link: "https://leetcode.com/",
   //       },
   //     ],
   //   },
