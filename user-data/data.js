@@ -1,30 +1,30 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
-  "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
-  "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
-  "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
+  "Hello, I'm Jason Gianakopulos!",
+  "<strong>Self-taught Developer</strong> Experience building scalable, user-focused web sites and web applications.",
+  "Skilled in HTML, CSS, JavaScript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
+  "Passionate about web security, teamwork, blockchain technology and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
-  "JavaScript, TypeScript, Angular, AngularJS, React, HTML5, CSS, Bootstrap",
-  "RxJS, NGXS, NGRX",
-  "Jenkins, JIRA, Webpack, Git",
+  "JavaScript, Markdown, MySQL, Node.js, Python, React, HTML5, CSS, GO",
+  "WordPress, Squarespace, Wix",
+  "JIRA, Git",
 ];
 
 export const experience = [
   {
-    title: "Shiprocket Private Limited",
-    duration: "September 2023 - Present",
-    subtitle: "Software Engineer",
+    title: "Nonprofit Organization",
+    duration: "February 2024 - Present",
+    subtitle: "IT Support Specialist",
     details: [
-      "Developed a design system using Stencil and Storybook that provides consistent UI components across platforms, ensuring a cohesive design.",
-      "Developed a dynamic support ticket panel that renders subcategories based on component IDs, handling up to 100 AWBs simultaneously.",
-      "Migrated 30+ modules from AngularJS to Angular 15 using Generative AI tools, reporting directly to the VP of Engineering.",
-      "Designed and implemented advanced features such as keyboard shortcuts, improving operational efficiency by 15 percent.",
-      "Took ownership of OKRs, collaborated with the product team, and mentored two junior developers, cutting their code review iterations and ensuring on-time feature delivery.",
+      "Spearheaded the development and design of the organization's website, backend servers, and social media content, creating a cohesive and engaging online presence.",
+      "Implemented and managed the Spiceworks support ticket system, efficiently resolving up to 25 tickets concurrently, ensuring timely user support and minimizing downtime.",
+      "Led the migration of email servers from Roundcube to Google Workspace, utilizing DNS management tools to ensure a seamless transition and enhanced email security. This critical project, reported directly to the CEO, resulted in improved uptime, increased storage, enhanced collaboration features.",
+      "Designed and implemented advanced features for Zoom meetings, streamlining communication and collaboration, leading to a measurable 15% improvement in operational efficiency. Implemented automated meeting scheduling and recording, reducing administrative overhead and improving access to meeting content.",
+      "Recognizing the importance of data protection, proactively developed and delivered cybersecurity training to staff, raising awareness of potential threats and best practices for safeguarding sensitive information. This initiative strengthened the organization's security posture. The training resulted in a 15% decrease in reported phishing attempts.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "AngularJs"],
-    icon: "truck ",
+    tags: ["JavaScript", "HTML", "CSS", "MySQL", "WordPress"],
+    icon: "heartbeat ",
   },
   {
     title: "Biofourmis India Private Limited",
