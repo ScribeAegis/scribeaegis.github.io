@@ -153,7 +153,7 @@ export const footer = [
       //     link: "https://keybase.io/jaegis",
       //   },
       {
-        text: "Send me Bitcoin",
+        label: "Send me Bitcoin",
         text: "bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5",
       },
       {
