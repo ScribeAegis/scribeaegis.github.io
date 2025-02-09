@@ -3,7 +3,7 @@ import {
   skills,
   education,
   experience,
-  traveling,
+  trekking,
   footer,
 } from "./user-data/data.js";
 
@@ -98,8 +98,8 @@ function populateSkills(items, id) {
   });
 }
 
-function populateTraveling(items) {
-  const skillsTag = document.getElementById('traveling');
+function populateTrekking(items) {
+  const skillsTag = document.getElementById('trekking');
   items.forEach((item) => {
     const h3 = getElement("li", null);
     h3.innerHTML = item;
@@ -452,7 +452,7 @@ fetchReposFromGit(gitRepo);
 fetchGitConnectedData(gitConnected);
 
 populateExp_Edu(experience, "experience");
-populateTraveling(traveling);
+populateTrekking(trekking);
 populateExp_Edu(education, "education");
 
 populateLinks(footer, "footer");
