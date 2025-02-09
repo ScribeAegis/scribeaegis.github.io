@@ -21,7 +21,7 @@ export const experience = [
       "Implemented and managed the Spiceworks support ticket system, efficiently resolving up to 25 tickets concurrently, ensuring timely user support and minimizing downtime.",
       "Led the migration of email servers from Roundcube to Google Workspace, utilizing DNS management tools to ensure a seamless transition and enhanced email security. This critical project, reported directly to the CEO, resulted in improved uptime, increased storage, enhanced collaboration features.",
       "Designed and implemented advanced features for Zoom meetings, streamlining communication and collaboration, leading to a measurable 15% improvement in operational efficiency. Implemented automated meeting scheduling and recording, reducing administrative overhead and improving access to meeting content.",
-      "Recognizing the importance of data protection, proactively developed and delivered cybersecurity training to staff, raising awareness of potential threats and best practices for safeguarding sensitive information. This initiative strengthened the organization's security posture. The training resulted in a 15% decrease in reported phishing attempts.",
+      "Proactively developed and delivered cybersecurity training to staff, raising awareness of potential threats and best practices for safeguarding sensitive information. This initiative strengthened the organization's security posture. The training resulted in a 15% decrease in reported phishing attempts.",
     ],
     tags: ["JavaScript", "HTML", "CSS", "MySQL", "WordPress"],
     icon: "heartbeat ",
