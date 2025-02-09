@@ -24,8 +24,8 @@ export const experience = [
       "Created social media graphics, logos, brochures using GIMP/Canva.",
       "Providing ongoing technichal support.",
     ],
-    tags: ["JavaScript", "HTML", "CSS", "WordPress" "Cybersecurity", "Project Management"],
-    icon: "hearbeat ",
+    tags: ["JavaScript", "HTML", "CSS", "WordPress", "Cybersecurity", "Project Management"],
+    icon: "hearbeat",
   },
   {
     title: "Small Local Business",
@@ -155,8 +155,8 @@ export const footer = [
       //     link: "https://keybase.io/jaegis",
       //   },
       {
-        label: "Send me Bitcoin",
-        text: "bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5",
+        text: "Send me Bitcoin",
+        link: "bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5",
       },
       {
         text: "Github",
