@@ -25,7 +25,7 @@ export const experience = [
       "Providing ongoing technichal support.",
     ],
     tags: ["JavaScript", "HTML", "CSS", "WordPress", "Cybersecurity", "Project Management"],
-    icon: "hearbeat",
+    icon: "heartbeat",
   },
   {
     title: "Small Local Business",
