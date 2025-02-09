@@ -14,7 +14,7 @@ export const skills = [
 
 export const experience = [
   {
-    title: "Mothers In Grief Support Group - Nonprofit Org",
+    title: "Updating...",
     duration: "February 2024 - Present",
     subtitle: "IT Support Specialist",
     details: [
@@ -49,7 +49,7 @@ export const experience = [
     icon: "heartbeat",
   },
   {
-    title: "Updating",
+    title: "Updating...",
     duration: "June 2020 - April 2022",
     subtitle: "Software Engineer",
     details: [
