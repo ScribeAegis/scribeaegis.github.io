@@ -1,8 +1,8 @@
 export const bio = [
   "Hello, I'm Jason Gianakopulos!",
-  "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
-  "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
-  "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
+  "<strong>Self-taught Developer</strong> Experience in cybersecurity and technology with a passion for the web.",
+  "Skilled in IT Support, back-end server management, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable outcomes.",
+  "Passionate about web security, blockchain technology, and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
@@ -18,14 +18,14 @@ export const experience = [
     duration: "February 2024 - Present",
     subtitle: "IT Support Specialist",
     details: [
-      "Developed a design system using Stencil and Storybook that provides consistent UI components across platforms, ensuring a cohesive design.",
-      "Developed a dynamic support ticket panel that renders subcategories based on component IDs, handling up to 100 AWBs simultaneously.",
-      "Migrated 30+ modules from AngularJS to Angular 15 using Generative AI tools, reporting directly to the VP of Engineering.",
-      "Designed and implemented advanced features such as keyboard shortcuts, improving operational efficiency by 15 percent.",
-      "Took ownership of OKRs, collaborated with the product team, and mentored two junior developers, cutting their code review iterations and ensuring on-time feature delivery.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     ],
     tags: ["JavaScript", "HTML", "CSS", "WordPress"],
-    icon: "truck ",
+    icon: "hearbeat ",
   },
   {
     title: "Updating...",
@@ -58,14 +58,14 @@ export const experience = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     ],
     tags: ["JavaScript", "HTML", "Python", "Nodejs", "MonogDB"],
-    icon: "qrcode",
+    icon: "heartbeat",
   },
   {
     title: "ThinkPedia LLP",
     duration: "May 2019 - June 2019",
     subtitle: "SDE Intern",
     details: [
-      `Designed and developed a social media post management panel, improving collaboration efficiency by 50 percent.`,
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     ],
     tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
     icon: "group",
@@ -112,7 +112,7 @@ export const footer = [
   //     data: [
   //       {
   //         text: "Stackoverflow",
-  //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+  //         link: "https://stackoverflow.com/users/29564593/jagwired",
   //       },
   //       {
   //         text: "GitHub",
@@ -137,7 +137,7 @@ export const footer = [
   //       },
   //       {
   //         text: "Clone this page",
-  //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+  //         link: "https://github.com/ScribeAegis/scribeaegis.github.io",
   //       },
   //     ],
   //   },
@@ -149,21 +149,21 @@ export const footer = [
       //     link: "https://www.linkedin.com/in/vinaysomawat/",
       //   },
       //   {
-      //     text: "Twitter",
-      //     link: "https://twitter.com/thesigmakid",
+      //     text: "Keybase",
+      //     link: "https://keybase.io/jaegis",
       //   },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        text: "Send me Bitcoin",
+        text: "bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5",
       },
       {
         text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "https://github.com/ScribeAegis/scribeaegis.github.io",
       },
     ],
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
+    data: ["Made with &hearts; by Jason Gianakopulos"],
   },
 ];
