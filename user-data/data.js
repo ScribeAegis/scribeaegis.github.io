@@ -8,7 +8,7 @@ export const bio = [
 export const skills = [
   "JavaScript, TypeScript, Python, GO, React, HTML5, CSS, Electron",
   "NodeJS, MySQL, MongoDB",
-  "WordPress, Squarespace, Wix"
+  "WordPress, Squarespace, Wix",
   "JIRA, Git",
 ];
 
