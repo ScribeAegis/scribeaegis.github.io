@@ -95,6 +95,8 @@ export const education = [
       "Computer Networks",
       "Compiler Designing",
       "Cloud Computing",
+      "Scripting",
+      "Cybersecurity",
     ],
     icon: "graduation-cap",
   },
@@ -148,7 +150,7 @@ export const footer = [
     data: [
       //   {
       //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
+      //     link: "https://www.linkedin.com/in/jagwire/",
       //   },
       //   {
       //     text: "Keybase",
