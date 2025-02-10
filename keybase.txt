@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jaegis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://scribeaegis.github.io
+  * I am jaegis (https://keybase.io/jaegis) on keybase.
+  * I have a public key with fingerprint 4EEB D27E 1AF1 33EF DD41  8D57 35F7 B19C 3B07 8864
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010178d229f7edbd1246804c4a6f8df613871be7e24c24fa8c11c09cc74613e8bc3d0a",
+      "fingerprint": "4eebd27e1af133efdd418d5735f7b19c3b078864",
+      "host": "keybase.io",
+      "key_id": "35f7b19c3b078864",
+      "kid": "010178d229f7edbd1246804c4a6f8df613871be7e24c24fa8c11c09cc74613e8bc3d0a",
+      "uid": "487b64bc54a2fa0c2bde579a8563b319",
+      "username": "jaegis"
+    },
+    "service": {
+      "hostname": "scribeaegis.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1739156730,
+  "expire_in": 157680000,
+  "prev": "1e287d9fd909438ff50627c0542429423ee2ab73460c2894caad326d3c80007b",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBVBGD6nsotkd7SI6LgQUXnZmZ3d2T0kioIRUYGR9VAddi573LSz
+x7N7zAsRZDcoKkSMiox6sNSoiLSUwu6kQaAvikFCGEWUvVRElDZr9dZj8zLM/3/f
+N9/38z9OmxpIDdb3OyVd53B78PmDC8lAtLXie51EHFYjheukcj558QrGXS9SbjMp
+LMlABlhnEBoW5owwAJGmy4giU7N0ZmlA0TEgHHOIKESWqVMAqGxQipHocZ1Qhcmm
+lCVZdizKE/GEHfOELOKcMIg5MC2gKNxiDAGdqVhRLUyAQRUiY13XkCCWOa7PEOaI
+6fIc2xE18YhM2vsH/j/7Tk7KIR0TDRGqIhNapkwhYVzFhqmrmkIUYPhAlydi5h4u
+0LtNHrVdaV+WJGpVNuX+WP0cf/ouTdiET4JyorZXliS/Y8UTjudQp0JAyjwv7oZ9
+Ca8m7nP2chL5oxYhdoyJcQpGFU+4thOTwkAgqWf78gArBlA1rMhZEq+O2wkesX2E
+isUExPH/4VVCEnCoY2ZYzJANpOiWpcoaxFRWEUTQQFDhHJoEK0gTgXUDUdNkCtSY
+Qn0dTCQ/X2XMkcIQCp9m1I9mR2Oml0xwad/D+zumBYKpgekpU/w9C6TOmvd3+1YP
+zJjYwxoKJg7ePRza1TV3dN0CsvXRj+GmYaOof008fWh/PHM+SF0+Oqv25flTH+61
+1fWNdRaMn+jcgJVDLT8z3bNjJ6PLQhe+pXsjmV2FazcO1Dz2gl/m52W31R8cfl2d
+9u5iSfjrnOPdqHtJY/+qvu3vrzf3vCqQejf1dt5oKN3S2HH0tLro7njKscUsAJvy
+B8+8aWcZK6vD658MkWt5enFp/Zu3FVf4kZ0zMzpAz+xLn+a25RdvyLhV+2WiZc1Q
+aOHyYNRdYIXv3M5dkcyNNY+9O5t2denmjz+zilNCc54FstcfCFxsirxoCWVuvlxY
+NLjtaeHEpdbPO0ZHmhtuVub2uSeG038BtJFB4w==
+=Pg0x
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaegis
+
+==================================================================
