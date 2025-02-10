@@ -23,7 +23,7 @@ export const experience = [
       "Designed and implemented advanced features for Zoom meetings, streamlining communication and collaboration, leading to a measurable 15% improvement in operational efficiency. Implemented automated meeting scheduling and recording, reducing administrative overhead and improving access to meeting content.",
       "Proactively developed and delivered cybersecurity training to staff, raising awareness of potential threats and best practices for safeguarding sensitive information. This initiative strengthened the organization's security posture. The training resulted in a 15% decrease in reported phishing attempts.",
     ],
-    tags: ["JavaScript", "HTML", "CSS", "MySQL", "WordPress"],
+    tags: ["JavaScript", "HTML", "CSS", "MySQL", "WordPress", "Cybersecurity"],
     icon: "heartbeat",
   },
   {
