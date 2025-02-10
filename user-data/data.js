@@ -24,7 +24,7 @@ export const experience = [
       "Proactively developed and delivered cybersecurity training to staff, raising awareness of potential threats and best practices for safeguarding sensitive information. This initiative strengthened the organization's security posture. The training resulted in a 15% decrease in reported phishing attempts.",
     ],
     tags: ["JavaScript", "HTML", "CSS", "MySQL", "WordPress"],
-    icon: "heartbeat ",
+    icon: "heartbeat",
   },
   {
     title: "Small Business",
