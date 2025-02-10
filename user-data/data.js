@@ -6,9 +6,10 @@ export const bio = [
 ];
 
 export const skills = [
-  "JavaScript, Markdown, MySQL, Node.js, Python, React, HTML5, CSS, GO",
-  "WordPress, Squarespace, Wix",
-  "JIRA, Git",
+  "Python, Node.js, TypeScript, ReactJS, MySQL, MongoDB, REST, Web Socket",
+  "HTML, CSS, JavaScript, React.js, Electron, Tailwind, Modular CSS, Canva, GIMP",
+  "Windows, Linux, GitHub, Docker, Git, GitHub Actions, Jira, GitHub Projects, NPM, AWS, Google Cloud, Heroku",
+  "WordPress, Squarespace, Wix, Markdown, Visual Studio Code",
 ];
 
 export const experience = [
