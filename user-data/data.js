@@ -61,7 +61,7 @@ export const experience = [
     icon: "heartbeat",
   },
   {
-    title: "ThinkPedia LLP",
+    title: "Retail Team Member",
     duration: "March 2003 - December 2011",
     subtitle: "Retail Associate",
     details: [
