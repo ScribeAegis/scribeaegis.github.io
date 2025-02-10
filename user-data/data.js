@@ -163,7 +163,7 @@ export const footer = [
       //   },
       {
         text: "Donate Bitcoin",
-        link: "bitcoin:<bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5>",
+        link: "bitcoin:bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5",
       },
       {
         text: "Github",
