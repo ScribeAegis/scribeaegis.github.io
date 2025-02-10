@@ -78,8 +78,6 @@ export const trekking = [
 "<strong>Las Vegas</strong>, Nevada",  
 "<strong>Salt Lake City</strong>, Utah",  
 "<strong>Denver</strong>, Colorado",  
-"<strong>Kansas City</strong>, Kansas",  
-"<strong>St. Louis</strong>, Missouri",  
 "<strong>Chicago</strong>, Illinois",  
 "<strong>Indianapolis</strong>, Indiana",  
 "<strong>Columbus</strong>, Ohio",  
