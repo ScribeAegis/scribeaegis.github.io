@@ -167,12 +167,12 @@ export const footer = [
       },
       {
         text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "https://github.com/ScribeAegis/scribeaegis.github.io",
       },
     ],
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
+    data: ["Made with &hearts; by Jason Gianakopulos"],
   },
 ];
