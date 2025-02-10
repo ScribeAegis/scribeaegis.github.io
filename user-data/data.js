@@ -73,11 +73,20 @@ export const experience = [
 ];
 
 export const trekking = [
-  "<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)",
-  "<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)",
-  "<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)",
-  "<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)",
-  "<strong>Vaishno Devi Trek</strong>, Jammu & Kashmir (5,200 feet)",
+"<strong>New York City</strong>, New York",  
+"<strong>Los Angeles</strong>, California",  
+"<strong>Las Vegas</strong>, Nevada",  
+"<strong>Salt Lake City</strong>, Utah",  
+"<strong>Denver</strong>, Colorado",  
+"<strong>Kansas City</strong>, Kansas",  
+"<strong>St. Louis</strong>, Missouri",  
+"<strong>Chicago</strong>, Illinois",  
+"<strong>Indianapolis</strong>, Indiana",  
+"<strong>Columbus</strong>, Ohio",  
+"<strong>Detroit</strong>, Michigan",  
+"<strong>Tijuana</strong>, Mexico",  
+"<strong>Puerto Vallarta</strong>, Mexico",  
+"<strong>Rosarito Beach</strong>, Mexico",  
 ];
 
 export const education = [
