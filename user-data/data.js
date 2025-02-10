@@ -62,12 +62,12 @@ export const experience = [
   },
   {
     title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
+    duration: "March 2003 - December 2011",
+    subtitle: "Retail Associate",
     details: [
-      `Designed and developed a social media post management panel, improving collaboration efficiency by 50 percent.`,
+      `Assisted in daily store operations, improving customer service efficiency and sales by optimizing inventory management and checkout processes.`,
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+    tags: ["Customer Service", "Sales", "Inventory Management", "POS Systems", "Retail Operations"],
     icon: "group",
   },
 ];
