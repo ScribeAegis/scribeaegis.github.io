@@ -156,12 +156,12 @@ export const footer = [
       //     link: "https://www.linkedin.com/in/jagwire/",
       //   },
       //   {
-      //     text: "Twitter",
-      //     link: "https://twitter.com/",
+      //     text: "Facebook",
+      //     link: "https://www.facebook.com/fbjasong",
       //   },
       {
-        text: "Send Bitcoin",
-        link: "bitcoin:bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5",
+        text: "Keybase",
+        link: "https://keybase.io/jaegis",
       },
       {
         text: "Github",
