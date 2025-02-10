@@ -110,7 +110,7 @@ export const education = [
     duration: "2003",
     subtitle: "Savanna High School",
     details: [],
-    tags: ["Science", "Mathematics", "English", "Social Studies", "Computer Basics", "Critical Thinking", "Problem-Solving", "Communication Skills"]
+    tags: ["Science", "Mathematics", "English", "Social Studies", "Computer Basics", "Critical Thinking", "Problem-Solving", "Communication Skills"], 
     icon: "book",
   },
 ];
