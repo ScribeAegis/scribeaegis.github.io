@@ -121,15 +121,15 @@ export const footer = [
   //     data: [
   //       {
   //         text: "Stackoverflow",
-  //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+  //         link: "https://stackoverflow.com/users/29564593/jagwired",
   //       },
   //       {
   //         text: "GitHub",
-  //         link: "https://github.com/vinaysomawat",
+  //         link: "https://github.com/ScribeAegis",
   //       },
   //       {
   //         text: "LeetCode",
-  //         link: "https://leetcode.com/somawatvinay/",
+  //         link: "https://leetcode.com/",
   //       },
   //     ],
   //   },
@@ -146,7 +146,7 @@ export const footer = [
   //       },
   //       {
   //         text: "Clone this page",
-  //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+  //         link: "https://github.com/ScribeAegis/scribeaegis.github.io.git",
   //       },
   //     ],
   //   },
@@ -155,15 +155,15 @@ export const footer = [
     data: [
       //   {
       //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
+      //     link: "https://www.linkedin.com/in/jagwire/",
       //   },
       //   {
       //     text: "Twitter",
-      //     link: "https://twitter.com/thesigmakid",
+      //     link: "https://twitter.com/",
       //   },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        text: "Donate Bitcoin",
+        link: "bitcoin:<bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5>",
       },
       {
         text: "Github",
