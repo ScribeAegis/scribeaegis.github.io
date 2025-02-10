@@ -91,26 +91,26 @@ export const trekking = [
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "Self-taught & Cisco Networking Academy",
+    duration: "2012 - Present",
+    subtitle: "Networking & Cybersecurity Training",
     details: [],
     tags: [
-      "Data Structures & Algorithms",
-      "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
+      "Networking Fundamentals",
+      "Routing & Switching",
+      "Cybersecurity",
+      "Network Security",
+      "TCP/IP",
+      "Cloud Networking",
     ],
     icon: "graduation-cap",
   },
   {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    title: "High School Diploma/GED",
+    duration: "2003",
+    subtitle: "Savanna High School",
     details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
+    tags: ["Science", "Mathematics", "English", "Social Studies", "Computer Basics", "Critical Thinking", "Problem-Solving", "Communication Skills"]
     icon: "book",
   },
 ];
