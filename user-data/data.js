@@ -90,7 +90,7 @@ export const trekking = [
 
 export const education = [
   {
-    title: "Self-taught & Cisco Networking Academy",
+    title: "Self-Taught & Cisco Networking Academy",
     duration: "2012 - Present",
     subtitle: "Networking & Cybersecurity Training",
     details: [],
@@ -105,7 +105,7 @@ export const education = [
     icon: "graduation-cap",
   },
   {
-    title: "High School Diploma/GED",
+    title: "High School",
     duration: "2003",
     subtitle: "Savanna High School",
     details: [],
