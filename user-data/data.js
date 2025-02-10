@@ -160,7 +160,7 @@ export const footer = [
       //     link: "https://twitter.com/",
       //   },
       {
-        text: "Donate Bitcoin",
+        text: "Send Bitcoin",
         link: "bitcoin:bc1ql2cuwhun0qmx3jsujd58k8fud0umdurhem84g5",
       },
       {
