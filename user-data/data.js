@@ -22,7 +22,7 @@ export const experience = [
       "Managed the Spiceworks support ticket system, efficiently resolving up to 25 tickets at a time to minimize downtime.",
       "Led the migration from Roundcube to Google Workspace, ensuring a seamless transition through DNS management, improving uptime, security, and collaboration.",
       "Enhanced Zoom meetings with advanced features like automated scheduling and recording, increasing operational efficiency by 15%.",
-      "Conducted cybersecurity training, reducing phishing attempts by 15% and strengthening the organization’s security posture.",
+      "Conducted cybersecurity training, reducing phishing attempts by 25% and strengthening the organization’s security posture.",
     ],
     tags: ["JavaScript", "HTML", "CSS", "MySQL", "WordPress", "Cybersecurity"],
     icon: "heartbeat",
