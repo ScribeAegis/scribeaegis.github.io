@@ -1,7 +1,7 @@
 export const bio = [
   "Hello, I'm Jason Gianakopulos!",
   "<strong>Self-taught Developer</strong> Experience building scalable, user-focused web sites, scripts and web applications.",
-  "Skilled in HTML, CSS, JavaScript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
+  "Skilled in HTML, CSS, JavaScript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable outcomes.",
   "Passionate about web security, teamwork, blockchain technology and continuous improvement in engineering processes.",
 ];
 
