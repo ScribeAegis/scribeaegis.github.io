@@ -6,7 +6,7 @@ export const bio = [
 ];
 
 export const skills = [
-  "Python, Node.js, TypeScript, ReactJS, MySQL, MongoDB, REST, Web Socket",
+  "Python, Node.js, TypeScript, MySQL, MongoDB, REST, Web Socket",
   "HTML, CSS, JavaScript, React.js, Electron, Tailwind, Modular CSS, Canva, GIMP",
   "Windows, Linux, GitHub, Docker, Git, GitHub Actions, Jira, GitHub Projects, NPM, AWS, Google Cloud, Heroku",
   "WordPress, Squarespace, Wix, Markdown, Visual Studio Code",
