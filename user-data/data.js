@@ -151,22 +151,22 @@ export const footer = [
   //   },
   {
     label: "Links",
-    data: [
-      //   {
-      //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/jagwire/",
-      //   },
-      //   {
-      //     text: "Facebook",
-      //     link: "https://www.facebook.com/fbjasong",
-      //   },
-      {
-        text: "Keybase",
-        link: "https://keybase.io/jaegis",
-      },
-      {
-        text: "Github",
-        link: "https://github.com/ScribeAegis/scribeaegis.github.io",
+data: [
+  {
+    text: "Linkedin",
+    link: "https://www.linkedin.com/in/jagwire/",
+  },
+  {
+    text: "Facebook",
+    link: "https://www.facebook.com/fbjasong",
+  },
+  {
+    text: "Keybase",
+    link: "https://keybase.io/jaegis",
+  },
+  {
+    text: "Github",
+    link: "https://github.com/ScribeAegis/scribeaegis.github.io",
       },
     ],
   },
