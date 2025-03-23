@@ -166,7 +166,7 @@ data: [
   },
   {
     text: "Github",
-    link: "https://github.com/ScribeAegis/scribeaegis.github.io",
+    link: "https://github.com/ScribeAegis",
       },
     ],
   },
