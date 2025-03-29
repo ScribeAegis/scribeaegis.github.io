@@ -44,7 +44,7 @@ export const experience = [
       "Client Relations",
       "HTML",
       "CSS",
-      "JavaScript",
+      "Javascript",
       "WordPress",
     ],
     icon: "heartbeat",
