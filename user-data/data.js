@@ -150,28 +150,31 @@ export const footer = [
   //     ],
   //   },
   {
-    label: "Links",
+label: "Links",
 data: [
   {
     text: "Linkedin",
-    link: "https://www.linkedin.com/in/jagwire/",
+    link: "https://www.linkedin.com/in/jagwire/"
   },
   {
     text: "Facebook",
-    link: "https://www.facebook.com/fbjasong",
+    link: "https://www.facebook.com/fbjasong"
   },
   {
     text: "Keybase",
-    link: "https://keybase.io/jaegis",
+    link: "https://keybase.io/jaegis"
   },
   {
     text: "Github",
-    link: "https://github.com/ScribeAegis",
-      },
-    ],
+    link: "https://github.com/ScribeAegis"
   },
   {
-    label: "copyright-text",
-    data: ["Made with &hearts; by Jason Gianakopulos"],
-  },
-];
+    text: "Certifications",
+    link: "https://www.credly.com/users/jason-gianakopulos"
+  }
+]
+},
+{
+  label: "copyright-text",
+  data: ["Made with &hearts; by Jason Gianakopulos"]
+};
