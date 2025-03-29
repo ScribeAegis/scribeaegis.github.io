@@ -24,7 +24,7 @@ export const experience = [
       "Enhanced Zoom meetings with advanced features like automated scheduling and recording, increasing operational efficiency by 15%.",
       "Conducted cybersecurity training, reducing phishing attempts by 25% and strengthening the organization’s security posture.",
     ],
-    tags: ["HTML", "CSS", "Javascript", "MySQL", "WordPress", "System Administration", "Cybersecurity"],
+    tags: ["HTML", "CSS", "Javascript", "MySQL", "WordPress", "Graphics Design", "System Administration", "Cybersecurity"],
     icon: "heartbeat",
   },
   {
