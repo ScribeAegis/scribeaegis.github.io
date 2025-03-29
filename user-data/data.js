@@ -1,8 +1,8 @@
 export const bio = [
   "Hello, I'm Jason!",
-  "<strong>Self-taught Developer</strong> Experience building scalable, user-focused web sites, scripts and web applications.",
+  "<strong>Self-taught Developer</strong> Experience building scalable, user-focused websites, scripts, and web applications.",
   "Skilled in HTML, CSS, JavaScript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable outcomes.",
-  "Passionate about web security, teamwork, blockchain technology and continuous improvement in engineering processes.",
+  "Passionate about web security, teamwork, blockchain technology, and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
@@ -56,7 +56,7 @@ export const experience = [
     details: [
       "Supervised and managed teams at a small local business.",
       "Led dedicated teams in delivering high-quality maintenance and installation services.",
-      "Ensured projects were completed on time and met client expectations, Played a key role in maintaining strong client relationships and creating a positive work environment.",
+      "Ensured projects were completed on time and met client expectations, playing a key role in maintaining strong client relationships and creating a positive work environment.",
     ],
     tags: ["Small Business", "Project Management", "Customer Service", "Client Relations", "Leadership", "Critical Thinking"],
     icon: "heartbeat",
@@ -66,7 +66,7 @@ export const experience = [
     duration: "March 2003 - December 2011",
     subtitle: "Retail Associate",
     details: [
-      `Assisted in daily store operations, improving customer service efficiency and sales by optimizing inventory management and checkout processes.`,
+      "Assisted in daily store operations, improving customer service efficiency and sales by optimizing inventory management and checkout processes.",
     ],
     tags: ["Customer Service", "Sales", "Inventory Management", "POS Systems", "Retail Operations"],
     icon: "group",
@@ -74,18 +74,18 @@ export const experience = [
 ];
 
 export const trekking = [
-"<strong>New York City</strong>, New York",  
-"<strong>Los Angeles</strong>, California",  
-"<strong>Las Vegas</strong>, Nevada",  
-"<strong>Salt Lake City</strong>, Utah",  
-"<strong>Denver</strong>, Colorado",  
-"<strong>Chicago</strong>, Illinois",  
-"<strong>Indianapolis</strong>, Indiana",  
-"<strong>Columbus</strong>, Ohio",  
-"<strong>Detroit</strong>, Michigan",  
-"<strong>Tijuana</strong>, Mexico",  
-"<strong>Puerto Vallarta</strong>, Mexico",  
-"<strong>Rosarito Beach</strong>, Mexico",  
+  "<strong>New York City</strong>, New York",  
+  "<strong>Los Angeles</strong>, California",  
+  "<strong>Las Vegas</strong>, Nevada",  
+  "<strong>Salt Lake City</strong>, Utah",  
+  "<strong>Denver</strong>, Colorado",  
+  "<strong>Chicago</strong>, Illinois",  
+  "<strong>Indianapolis</strong>, Indiana",  
+  "<strong>Columbus</strong>, Ohio",  
+  "<strong>Detroit</strong>, Michigan",  
+  "<strong>Tijuana</strong>, Mexico",  
+  "<strong>Puerto Vallarta</strong>, Mexico",  
+  "<strong>Rosarito Beach</strong>, Mexico",  
 ];
 
 export const education = [
@@ -115,66 +115,33 @@ export const education = [
 ];
 
 export const footer = [
-  //   {
-  //     label: "Dev Profiles",
-  //     data: [
-  //       {
-  //         text: "Stackoverflow",
-  //         link: "https://stackoverflow.com/users/29564593/jagwired",
-  //       },
-  //       {
-  //         text: "GitHub",
-  //         link: "https://github.com/ScribeAegis",
-  //       },
-  //       {
-  //         text: "LeetCode",
-  //         link: "https://leetcode.com/",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     label: "Resources",
-  //     data: [
-  //       {
-  //         text: "Enable Dark/Light Mode",
-  //         func: "enableDarkMode()",
-  //       },
-  //       {
-  //         text: "Print this page",
-  //         func: "window.print()",
-  //       },
-  //       {
-  //         text: "Clone this page",
-  //         link: "https://github.com/ScribeAegis/scribeaegis.github.io.git",
-  //       },
-  //     ],
-  //   },
   {
-label: "Links",
-data: [
-  {
-    text: "Linkedin",
-    link: "https://www.linkedin.com/in/jagwire/"
+    label: "Links",
+    data: [
+      {
+        text: "Linkedin",
+        link: "https://www.linkedin.com/in/jagwire/",
+      },
+      {
+        text: "Facebook",
+        link: "https://www.facebook.com/fbjasong",
+      },
+      {
+        text: "Keybase",
+        link: "https://keybase.io/jaegis",
+      },
+      {
+        text: "Github",
+        link: "https://github.com/ScribeAegis",
+      },
+      {
+        text: "Certifications",
+        link: "https://www.credly.com/users/jason-gianakopulos",
+      }
+    ],
   },
   {
-    text: "Facebook",
-    link: "https://www.facebook.com/fbjasong"
+    label: "copyright-text",
+    data: ["Made with &hearts; by Jason Gianakopulos"],
   },
-  {
-    text: "Keybase",
-    link: "https://keybase.io/jaegis"
-  },
-  {
-    text: "Github",
-    link: "https://github.com/ScribeAegis"
-  },
-  {
-    text: "Certifications",
-    link: "https://www.credly.com/users/jason-gianakopulos"
-  }
-]
-},
-{
-  label: "copyright-text",
-  data: ["Made with &hearts; by Jason Gianakopulos"]
-};
+];
