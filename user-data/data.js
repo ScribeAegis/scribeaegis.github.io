@@ -1,13 +1,13 @@
 export const bio = [
   "Hello, I'm Jason!",
   "<strong>Self-taught Developer</strong> Experience building scalable, user-focused websites, scripts, and web applications.",
-  "Skilled in HTML, CSS, JavaScript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable outcomes.",
+  "Skilled in HTML, CSS, Javascript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable outcomes.",
   "Passionate about web security, teamwork, blockchain technology, and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
   "Python, Node.js, TypeScript, MySQL, MongoDB, REST, Web Socket",
-  "HTML, CSS, JavaScript, React.js, Electron, Tailwind, Modular CSS, Canva, GIMP",
+  "HTML, CSS, Javascript, React.js, Electron, Tailwind, Modular CSS, Canva, GIMP",
   "Windows, Linux, GitHub, Docker, Git, GitHub Actions, Jira, GitHub Projects, NPM, AWS, Google Cloud, Heroku",
   "WordPress, Squarespace, Wix, Markdown, Visual Studio Code",
 ];
@@ -92,7 +92,7 @@ export const education = [
   {
     title: "Self-Taught & Cisco Networking Academy",
     duration: "2012 - Present",
-    subtitle: "Networking & Cybersecurity Training",
+    subtitle: "Information of Technology, Networking & Cybersecurity Training",
     details: [],
     tags: [
       "Networking Fundamentals",
@@ -131,7 +131,7 @@ export const footer = [
         link: "https://keybase.io/jaegis",
       },
       {
-        text: "Github",
+        text: "GitHub",
         link: "https://github.com/ScribeAegis",
       },
       {
