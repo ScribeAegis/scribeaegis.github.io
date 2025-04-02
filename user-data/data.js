@@ -1,13 +1,13 @@
 export const bio = [
   "Hello, I'm Jason!",
   "<strong>Self-taught Developer</strong> Experience building scalable, user-focused websites, scripts, and web applications.",
-  "Skilled in HTML, CSS, Javascript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable outcomes.",
+  "Skilled in HTML, CSS, JavaScript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable outcomes.",
   "Passionate about web security, OSINT, teamwork, blockchain technology, and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
   "Python, Node.js, TypeScript, MySQL, MongoDB, REST, Web Socket",
-  "HTML, CSS, Javascript, React.js, Electron, Tailwind, Modular CSS, Canva, GIMP",
+  "HTML, CSS, JavaScript, React.js, Electron, Tailwind, Modular CSS, Canva, GIMP",
   "Windows, Linux, GitHub, Docker, Git, GitHub Actions, Jira, GitHub Projects, NPM, AWS, Google Cloud, Heroku",
   "WordPress, Squarespace, Wix, Markdown, Visual Studio Code",
 ];
@@ -24,7 +24,7 @@ export const experience = [
       "Enhanced Zoom meetings with advanced features like automated scheduling and recording, increasing operational efficiency by 15%.",
       "Conducted cybersecurity training, reducing phishing attempts by 25% and strengthening the organization’s security posture.",
     ],
-    tags: ["HTML", "CSS", "Javascript", "MySQL", "WordPress", "Graphics Design", "System Administration", "Cybersecurity"],
+    tags: ["HTML", "CSS", "JavaScript", "MySQL", "WordPress", "Graphics Design", "System Administration", "Cybersecurity"],
     icon: "heartbeat",
   },
   {
@@ -44,7 +44,7 @@ export const experience = [
       "Client Relations",
       "HTML",
       "CSS",
-      "Javascript",
+      "JavaScript",
       "WordPress",
     ],
     icon: "heartbeat",
