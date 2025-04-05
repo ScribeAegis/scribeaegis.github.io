@@ -135,6 +135,10 @@ export const footer = [
         link: "https://github.com/ScribeAegis",
       },
       {
+        text: "Upwork",
+        link: "https://www.upwork.com/freelancers/~019f38a6ee2fc554f0",
+      },
+      {
         text: "Certifications",
         link: "https://www.credly.com/users/jason-gianakopulos",
       }
