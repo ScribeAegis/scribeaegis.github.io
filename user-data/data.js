@@ -116,7 +116,7 @@ export const education = [
 
 export const footer = [
   {
-    label: "Links",
+    label: "Quick Links",
     data: [
       {
         text: "Linkedin",
