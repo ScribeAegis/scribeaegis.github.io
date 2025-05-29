@@ -123,8 +123,7 @@ figure figcaption {
 	width: 300px;
 	position: fixed;
 	z-index: 1001;
-background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
-→ background: linear-gradient(135deg, #dfe3ee, #8b9dc3);
+	background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 	-webkit-transition: 0.5s;
 	-o-transition: 0.5s;
 	transition: 0.5s;
@@ -139,7 +138,7 @@ background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 		-o-transform: translateX(-300px);
 		transform: translateX(-300px);
 		padding-top: 4em;
-		background-color: #8b9dc3;
+		background-color: #f9bf3f;
 		height: -webkit-fill-available;
 		left: 0px;
 	}
@@ -307,7 +306,7 @@ background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 	padding: 4px;
 }
 #colorlib-aside .colorlib-footer h3 a {
-	color: #3b8998;
+	color: #ff722c;
 	font-size: 18px;
 }
 #rcorners2 {
@@ -507,7 +506,7 @@ body.offcanvas #colorlib-aside {
 	-o-transform: translateX(0);
 	transform: translateX(0);
 	width: 372px;
-	background-color: #8b9dc3;
+	background-color: #f9bf3f;
 	z-index: 999;
 	position: fixed;
 }
@@ -778,7 +777,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .panel-heading a.collapsed {
-	background: #dfe3ee;
+	background: #f2f3f7;
 	border: 1px solid #e6e6e6 !important;
 	color: #333333;
 }
@@ -891,8 +890,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
 	position: relative;
-background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
-→ background: linear-gradient(135deg, #dfe3ee, #8b9dc3);
+	background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 	color: #000;
 	padding: 1.5em;
 	margin-left: 60px;
@@ -985,10 +983,10 @@ background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 	color: #ec5453;
 }
 .services.color-3 {
-	border-bottom: 2px solid #8b9dc3
+	border-bottom: 2px solid #f9bf3f;
 }
 .services.color-3 .icon2 i {
-	color: #8b9dc3;
+	color: #f9bf3f;
 }
 .services.color-4 {
 	border-bottom: 2px solid #a84cb8;
@@ -1085,7 +1083,7 @@ background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 	border-color: transparent transparent #f9bf3f transparent;
 }
 .services.color-3 .icon:after {
-	border-color: #8b9dc3 transparent transparent transparent;
+	border-color: #f9bf3f transparent transparent transparent;
 }
 .services.color-4 .icon {
 	background: #a84cb8;
@@ -1139,7 +1137,7 @@ background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 	height: 50px;
 	display: table;
 	text-align: center;
-	background: #dfe3ee;
+	background: #f2f3f7;
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	-ms-border-radius: 2px;
@@ -1603,9 +1601,9 @@ background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 }
 
 .btn-warning {
-	background: #8b9dc3;
+	background: #f0ad4e;
 	color: #fff;
-	border: 2px solid #8b9dc3;
+	border: 2px solid #f0ad4e;
 }
 .btn-warning:hover,
 .btn-warning:focus,
@@ -1615,13 +1613,13 @@ background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 }
 .btn-warning.btn-outline {
 	background: transparent;
-	color: #8b9dc3;
-	border: 2px solid #8b9dc3;
+	color: #f0ad4e;
+	border: 2px solid #f0ad4e;
 }
 .btn-warning.btn-outline:hover,
 .btn-warning.btn-outline:focus,
 .btn-warning.btn-outline:active {
-	background: #8b9dc3;
+	background: #f0ad4e;
 	color: #fff;
 }
 
@@ -1671,7 +1669,7 @@ background: linear-gradient(135deg, rgb(255, 221, 153), rgb(249, 191, 63));
 	box-shadow: none;
 	background: transparent;
 	border: transparent;
-	background: #dfe3ee;
+	background: #f2f3f7;
 	height: 54px;
 	font-size: 16px;
 	font-weight: 400;
@@ -2109,7 +2107,7 @@ span {
 	padding-bottom: 10px;
     text-align: right;
     font-weight: 600;
-	background-color: #8b9dc3;
+	background-color: #f0ad4e;
 }
 
 .badge {
@@ -2196,6 +2194,6 @@ hr {
 
   .dark-mode {
 	strong {
-		color: #;
+		color: #f9bf3f;
 	}
   }
