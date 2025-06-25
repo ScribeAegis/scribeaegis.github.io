@@ -1,15 +1,16 @@
 export const bio = [
   "Hello, I'm Jason!",
-  "<strong>Self-taught Developer</strong> Experience building scalable, user-focused websites, scripts, and web applications.",
+  "<strong>Developer</strong> Experience building scalable, user-focused websites, scripts, and web applications.",
   "Skilled in HTML, CSS, JavaScript for website development and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable outcomes.",
   "Passionate about web security, OSINT, teamwork, blockchain technology, and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
-  "Python, Node.js, MySQL, MongoDB, REST, Web Socket",
-  "HTML, CSS, JavaScript, React.js, Electron, Tailwind, Modular CSS, Canva, GIMP",
-  "Windows, Linux, GitHub, Docker, Git, GitHub Actions, Jira, GitHub Projects, NPM, AWS, Google Cloud, Heroku",
-  "WordPress, Squarespace, Wix, Markdown, Visual Studio Code",
+  "HTML, CSS, JavaScript, React.js, Modular CSS, Electron, Canva, GIMP",
+  "Python, Node.js, Rest, Web Socket, MySQL, MongoDB",
+  "Windows, Linux, Visual Studio Code, Markdown",
+  "Git, GitHub, NPM, AWS, Google Cloud, Heroku, GitHub Projects",
+  "WordPress, Squarespace, Wix",
 ];
 
 export const experience = [
