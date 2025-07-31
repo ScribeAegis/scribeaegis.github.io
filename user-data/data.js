@@ -147,6 +147,6 @@ export const footer = [
   },
   {
     label: "copyright-text",
-    data: ["2024-2025 Made with &hearts; by Jason Gianakopulos"],
+    data: ["2025 Made with &hearts; by Jason Gianakopulos"],
   },
 ];
